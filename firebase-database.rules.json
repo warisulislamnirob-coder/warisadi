@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "warisadi": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
